@@ -1,1 +1,6 @@
 # smartphone-website![Снимок экрана (6)](https://github.com/f-jurabaeva/smartphone-website/assets/75970608/708bc021-047f-4e1f-a5cb-574a6a77bb3a)
+![Снимок экрана (5)](https://github.com/f-jurabaeva/smartphone-website/assets/75970608/5b771dfc-e1e9-4eaa-9d8a-ef69cc733bc4)
+![Снимок экрана (4)](https://github.com/f-jurabaeva/smartphone-website/assets/75970608/923fc298-b02c-4bf5-8bbb-234e75168ea1)
+![Снимок экрана (3)](https://github.com/f-jurabaeva/smartphone-website/assets/75970608/c487595f-afae-4499-b3b8-294dc17cb5b0)
+![Снимок экрана (2)](https://github.com/f-jurabaeva/smartphone-website/assets/75970608/5832e7d8-b7aa-4098-a50e-f2a18b9a965b)
+![Снимок экрана (1)](https://github.com/f-jurabaeva/smartphone-website/assets/75970608/8ff25cab-3b1c-4f73-b525-30ca254fb4ab)
